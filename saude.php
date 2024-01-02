@@ -1,6 +1,18 @@
 
 </br>
 
+<div class="container align-center float-center">
+                <div class="row">
+                    <div class="col-lg-12 col-sm-12">
+                         <h2 class="section-title text-center text-secondary text-default px-1 " style="padding: 7px;">Hospitais</h2>
+                        <p class="text-justify">
+                            Lugares de cuidado compassivo, onde a dedicação à saúde e o bem-estar se entrelaça. Oferecemos tratamento de qualidade, controlo e apoio em cada jornada de cura. </br>
+                        Nestes locais há equipes comprometidas com a vida, onde a esperança e a excelência médica se encontram para criar um ambiente de cura holística. </br> 
+                        <strong> O Bem-Estar é a nossa Prioridade!!</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
             <div class="container align-center float-center">
                 <div class="row">
